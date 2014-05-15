@@ -20,7 +20,9 @@ SO, ACTUALLY  YOU CAN PLAY CHN AND ENG SIMULTANEOUSLY. (Uh, Until someone fix th
 Hope you don’t mind.
 
 Also,The CHN Ver does not contain SHARE TO Facebook OR Twitter link.
-We may consider adding a SHARE TO Weibo（新浪微博）, RenRen （人人网）function later.
+Instead, we added a SHARE TO Weibo（新浪微博）, QZone （QQ空间）function.
+
+
 
 
 
@@ -31,10 +33,12 @@ Let’s Stoke the Fire.// 让我们点起火来
 
 
 *
-—Tedko（泰德子）
+
 — Tim
 — 老沉 (Programmer)
 —U77店长 
+—Tedko（泰德子）
+
 
 —The CHN Ver of ADarkRoom (Translated by U77)
 Thank you!
