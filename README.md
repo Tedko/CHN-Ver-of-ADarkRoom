@@ -4,9 +4,6 @@ CHN-Ver-of-ADarkRoom
 
 The Original Version of ADR is made by Michael Townsend.
 
-This CHN Translation is made by U77
-http://www.u77.com/
- ( Mostly Done by Tim ).
 
 The CHN Ver Link : http://www.u77.com/game/1254
 
