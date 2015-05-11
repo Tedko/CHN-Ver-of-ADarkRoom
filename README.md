@@ -40,4 +40,3 @@ Let’s Stoke the Fire.// 让我们点起火来
 —The CHN Ver of ADarkRoom (Translated by U77)
 Thank you!
 
-PS: I am working on Japanese Version now, if you are native, just join it!
